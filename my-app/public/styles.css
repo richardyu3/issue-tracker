@@ -1,0 +1,9 @@
+.trackerTitle {
+  display: flex;
+  justify-content: center;
+}
+
+.trackerTable {
+  display: flex;
+  justify-content: center;
+}
